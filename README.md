@@ -9,4 +9,4 @@ Code and tutorial for the results reported in "Training Hybrid Classical-Quantum
   - qiskit-ignis	0.7.0
   - qiskit-ibmq-provider	0.18.3
 
-Running in Collab is recommended.
+Collab is recommended.
